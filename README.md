@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praneash2
+- 👋 Hi, I’m praneash
 - 👀 I’m interested in .robotics.
 - 🌱 I’m currently learning .programming and robotics.
 - 💞️ I’m looking to collaborate on ...
